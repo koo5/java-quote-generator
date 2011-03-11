@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>lek</label>
+	</settings>
+	<users>
+		<user>
+			<path>lek.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>lek.jcp</path>
+		</project>
+	</projects>
+</workspace>
