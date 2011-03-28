@@ -1,4 +1,5 @@
 [[http://github.com/koo5/java-quote-generator]]\\
-{{http://github.com/koo5/java-quote-generator/raw/master/1.png}}\\
-{{http://github.com/koo5/java-quote-generator/raw/master/2.png}}\\
-{{http://github.com/koo5/java-quote-generator/raw/master/3.png}}\\
+{{https://github.com/koo5/java-quote-generator/raw/master/1.png}}\\
+{{https://github.com/koo5/java-quote-generator/raw/master/2.png}}\\
+{{https://github.com/koo5/java-quote-generator/raw/master/3.png}}\\
+Enjoy!
